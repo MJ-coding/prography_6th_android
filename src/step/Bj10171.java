@@ -1,4 +1,4 @@
-package first;
+package step;
 
 public class Bj10171 {
 

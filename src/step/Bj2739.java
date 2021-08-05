@@ -1,4 +1,4 @@
-package first;
+package step;
 //times table 
 import java.util.*;
 public class Bj2739 {

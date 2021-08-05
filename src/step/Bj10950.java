@@ -1,4 +1,4 @@
-package first;
+package step;
 //A+B
 import java.util.*;
 import java.io.*;

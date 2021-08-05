@@ -1,4 +1,4 @@
-package first;
+package step;
 import java.io.*;
 
 public class Bj14681 {
