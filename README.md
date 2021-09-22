@@ -26,8 +26,8 @@
 백준|[알파벳 찾기](https://www.acmicpc.net/problem/10809)|[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj10809.java)
 백준|[이진수](https://www.acmicpc.net/problem/3460)|[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj3460.java)
 프로그래머스|[소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[정답]()
-2021 KAKAO BLIND RECRUITMENT|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[정답]()
-2020 KAKAO INTERNSHIP|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[정답]()
+2021 KAKAO BLIND RECRUITMENT|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[정답](https://github.com/corrvax/algorithm/blob/master/src/implementation/Pro71418.java)
+2020 KAKAO INTERNSHIP|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[정답](https://github.com/corrvax/algorithm/blob/master/src/implementation/Pro71418.java)
 
 
  
