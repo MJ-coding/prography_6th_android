@@ -32,6 +32,7 @@
 
  ---
  ##👉스택&큐
+ 출처|문제|풀이
  ---|----|----
  백준|[스택](https://www.acmicpc.net/problem/10828) | [정답]()
  백준|[큐](https://www.acmicpc.net/problem/10845) | [정답]()
