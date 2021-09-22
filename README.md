@@ -30,7 +30,19 @@
 2020 KAKAO INTERNSHIP|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[정답](https://github.com/corrvax/algorithm/blob/master/src/implementation/Pro71418.java)
 
 
- 
+ ---
+ ##👉스택&큐
+ ---|----|----
+ 백준|[스택](https://www.acmicpc.net/problem/10828) | [정답]()
+ 백준|[큐](https://www.acmicpc.net/problem/10845) | [정답]()
+ 백준|[덱](https://www.acmicpc.net/problem/10866) | [정답]()
+ 백준|[요세푸스 문제](https://www.acmicpc.net/problem/1158) |[정답]()
+ 백준|[단어 뒤집기](https://www.acmicpc.net/problem/9093) | [정답]()
+ 백준|[프린터 큐](https://www.acmicpc.net/problem/1966) | [정답]()
+ 프로그래머스|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[정답]()
+ 프로그래머스 |[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|[정답]()
+ 프로그래머스|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|[정답]()
+
 
 ---
 ##  👉그리디
