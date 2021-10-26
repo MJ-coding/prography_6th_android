@@ -1,13 +1,13 @@
 # Java Algorithm Coding Test👩🏻‍💻
 ### made by Eun Jo
-[자바 정리]()
+[자바 정리](https://github.com/corrvax/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%A0%95%EB%A6%AC.md)
 ~~~
 자바로 코딩테스트를 대비하고자 만들었습니다.
 난이도는 아래로 갈수록 어려울 예정입니다.
 ~~~
 ## 👉시작 & 구현
 시작하는 분들을 위한 문제입니다. 쉽다 느껴지시면 밑에 있는 문제를 풀어보시길 권장합니다.
-
+Cancel changes
 출처|문제|풀이
 ---|---- | ---- 
 백준|[별짓기1](https://www.acmicpc.net/problem/2438) |[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj2438.java) 
