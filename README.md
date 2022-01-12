@@ -63,6 +63,7 @@ Cancel changes
  출처|문제|풀이
  ---|----|----
  백준|[미로탐색](https://www.acmicpc.net/problem/2178)|[정답](https://github.com/corrvax/algorithm/blob/master/src/DFS_BFS/Bj2178.java)
+ 백준|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[정답](https://github.com/corrvax/algorithm/blob/master/src/DFS_BFS/Bj2667.java)
  
  
 ##  👉정렬
