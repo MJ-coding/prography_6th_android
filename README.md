@@ -84,4 +84,4 @@ Cancel changes
 ---
  출처|문제|풀이
  ---|----|----
- 백준|[최소회의실개수](https://www.acmicpc.net/problem/19598)|[정답]()
+ 백준|[최소회의실개수](https://www.acmicpc.net/problem/19598)|[정답](https://github.com/corrvax/algorithm/blob/master/src/LineSweeping/Bj19598.java)
