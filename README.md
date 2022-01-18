@@ -81,7 +81,7 @@ Cancel changes
 ##  👉문자열
  출처|문제|풀이
  ---|----|----
- [백준]|[괄호의 값](https://www.acmicpc.net/problem/2504)|[정답](https://github.com/corrvax/algorithm/blob/master/src/StringHandle/Bj2504.java)
+ 백준|[괄호의 값](https://www.acmicpc.net/problem/2504)|[정답](https://github.com/corrvax/algorithm/blob/master/src/StringHandle/Bj2504.java)
  
  ##  👉스위핑
 ---
