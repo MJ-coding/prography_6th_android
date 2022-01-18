@@ -71,7 +71,7 @@ Cancel changes
 ##  👉다이나믹 프로그래밍
  출처|문제|풀이
  ---|----|----
- 백준|[소가 정보섬에 올라간 이유]()|[정답]()
+ 백준|[소가 정보섬에 올라간 이유](https://www.acmicpc.net/problem/17128)|[정답](https://github.com/corrvax/algorithm/blob/master/src/DynamicPrograming/Bj17128.java)
 ##  👉최단 경로
 ---
  출처|문제|풀이
