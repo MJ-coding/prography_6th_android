@@ -56,7 +56,7 @@ Cancel changes
 ##  👉구현
  출처|문제|풀이
  ---|----|----
-
+ 백준|[악마의 제안](https://www.acmicpc.net/problem/23972)|[정답]()
 
 ##  👉DFS/BFS
 ---
@@ -71,7 +71,8 @@ Cancel changes
 ##  👉이진탐색
  출처|문제|풀이
  ---|----|----
- 백준|[악마의 제안](https://www.acmicpc.net/problem/23972)|[정답]()
+ 백준|[2021은 무엇이 특별할까](https://www.acmicpc.net/problem/24039)|[정답]()
+ 
 ##  👉다이나믹 프로그래밍
  출처|문제|풀이
  ---|----|----
