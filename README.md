@@ -56,7 +56,7 @@ Cancel changes
 ##  👉구현
  출처|문제|풀이
  ---|----|----
- 백준|[악마의 제안](https://www.acmicpc.net/problem/23972)|[정답]()
+ 백준|[악마의 제안](https://www.acmicpc.net/problem/23972)|[정답](https://github.com/corrvax/algorithm/blob/master/src/implementation/Bj23972.java)
 
 ##  👉DFS/BFS
 ---
