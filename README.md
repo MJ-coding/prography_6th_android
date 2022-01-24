@@ -74,6 +74,7 @@ Cancel changes
  ---|----|----
  백준|[2021은 무엇이 특별할까](https://www.acmicpc.net/problem/24039)|[정답](https://github.com/corrvax/algorithm/blob/master/src/BinarySearch/Bj24039.java)
  백준|[공유기 설치](https://www.acmicpc.net/problem/2110)|[정답](https://github.com/corrvax/algorithm/blob/master/src/BinarySearch/Bj2110.java)
+ 백준|[랜선 자르기](https://www.acmicpc.net/problem/1654)|[정답](https://github.com/corrvax/algorithm/blob/master/src/BinarySearch/Bj1654.java)
  
 ##  👉다이나믹 프로그래밍
  출처|문제|풀이
