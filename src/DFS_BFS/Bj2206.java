@@ -1,4 +1,4 @@
-package DFS_BFS;
+package dfs_bfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -11,7 +11,7 @@ import java.util.function.BiPredicate;
 
 /**
  * bfs : 깼는지 확인해가며 탐색
- * 벽을 만나면 부수고 탐색
+ * 벽을 만나면 부수고 탐색 (어차피 bfs는 모두 탐색함)
  * visited[0][][] 안부순거
  * visited[1][][] 부순거
  */
@@ -59,7 +59,7 @@ public class Bj2206 {
                 int nextY = current.getY() + DIRECTION[1];
 
                 if(OUT_OF_RANGE.test(nextX,nextY)) continue;
-                if(map[nextX][nextY] == BLOCK){//안깼으면 부순다!
+                if(map[nextX][nextY] == BLOCK){
                     if(current.getIsBroken() == 1) continue;
                     if(visited[1][nextX][nextY] != INIT) continue;
 

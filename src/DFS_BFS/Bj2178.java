@@ -1,4 +1,4 @@
-package DFS_BFS;
+package dfs_bfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -41,8 +41,8 @@ public class Bj2178 {
             }
         }
 
-        Point start = new Point(0,0);
-        Point end = new Point(N-1, M-1);
+        Point2178 start = new Point2178(0,0);
+        Point2178 end = new Point2178(N-1, M-1);
 
         bfs(start,end);
         System.out.println(visited[end.getX()][end.getY()]);
@@ -51,13 +51,13 @@ public class Bj2178 {
     private static final BiPredicate<Integer,Integer> OUT_OF_RANGE = (x,y) ->
             x < 0 || x > N-1 || y < 0 || y > M-1;
 
-    private static void bfs(Point start, Point end){
-        Queue<Point> q = new ArrayDeque<>();
+    private static void bfs(Point2178 start, Point2178 end){
+        Queue<Point2178> q = new ArrayDeque<>();
         q.offer(start);
         visited[start.getX()][start.getY()] = 1;
 
         while(!q.isEmpty()){
-            Point current = q.poll();
+            Point2178 current = q.poll();
             for(final int[] DIRECTION : DIRECTIONS){
                 int nextX = current.getX() + DIRECTION[0];
                 int nextY = current.getY() + DIRECTION[1];
@@ -67,7 +67,7 @@ public class Bj2178 {
                 if(map[nextX][nextY] == BLOCK) continue;
 
                 visited[nextX][nextY] = visited[current.getX()][current.getY()] + 1;
-                Point next = new Point(nextX,nextY);
+                Point2178 next = new Point2178(nextX,nextY);
                 if(next.equals(end)) return;
                 q.offer(next);
 
@@ -77,11 +77,11 @@ public class Bj2178 {
     }
 }
 
-class Point{
+class Point2178{
     int x;
     int y;
 
-    public Point(int x, int y){
+    public Point2178(int x, int y){
         this.x = x;
         this.y = y;
     }
@@ -95,8 +95,8 @@ class Point{
 
     @Override
     public boolean equals(Object obj){
-        if( obj instanceof Point){
-            Point point = (Point) obj;
+        if( obj instanceof Point2178){
+            Point2178 point = (Point2178) obj;
             if(this.getX() == point.getX() && this.getY() == point.getY()){
                 return true;
             }
