@@ -73,6 +73,8 @@ Cancel changes
  ---|----|----
  백준|[패션왕 신혜빈](https://www.acmicpc.net/problem/9375)|[정답](https://github.com/corrvax/algorithm/blob/master/src/map_set/Bj9375.java)
  백준|[듣보잡](https://www.acmicpc.net/problem/1764)|[정답](https://github.com/corrvax/algorithm/blob/master/src/map_set/Bj1764.java)
+ 백준|[철벽 보안 알고리즘](https://www.acmicpc.net/problem/9322)|[정답](https://github.com/corrvax/algorithm/blob/master/src/map_set/Bj9322.java)
+ 
 ##  👉정렬
 ---
 ##  👉이진탐색
