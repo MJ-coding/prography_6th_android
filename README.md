@@ -84,6 +84,7 @@ Cancel changes
  백준|[공유기 설치](https://www.acmicpc.net/problem/2110)|[정답](https://github.com/corrvax/algorithm/blob/master/src/BinarySearch/Bj2110.java)
  백준|[랜선 자르기](https://www.acmicpc.net/problem/1654)|[정답](https://github.com/corrvax/algorithm/blob/master/src/BinarySearch/Bj1654.java)
  백준|[나무 자르기](https://www.acmicpc.net/problem/2805)|[정답](https://github.com/corrvax/algorithm/blob/master/src/BinarySearch/Bj2805.java)
+ 백준|[게임](https://www.acmicpc.net/problem/1072)|[정답](https://github.com/corrvax/algorithm/blob/master/src/BinarySearch/Bj1072.java)
  
  
 ##  👉다이나믹 프로그래밍
