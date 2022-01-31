@@ -76,6 +76,9 @@ Cancel changes
  백준|[철벽 보안 알고리즘](https://www.acmicpc.net/problem/9322)|[정답](https://github.com/corrvax/algorithm/blob/master/src/map_set/Bj9322.java)
  
 ##  👉정렬
+ 출처|문제|풀이
+ ---|----|----
+ 백준|[전화번호 목록](https://www.acmicpc.net/problem/5052)|[정답](https://github.com/corrvax/algorithm/blob/master/src/sorting/Bj5052.java)
 ---
 ##  👉이진탐색
  출처|문제|풀이
