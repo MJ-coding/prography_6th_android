@@ -112,3 +112,11 @@ Cancel changes
  출처|문제|풀이
  ---|----|----
  백준|[최소회의실개수](https://www.acmicpc.net/problem/19598)|[정답](https://github.com/corrvax/algorithm/blob/master/src/LineSweeping/Bj19598.java)
+ 
+  ##  👉서로소 집합
+---
+ 출처|문제|풀이
+ ---|----|----
+ 백준|[Count Circle Groups](https://www.acmicpc.net/problem/10216)|[정답](https://github.com/corrvax/algorithm/blob/master/src/LineSweeping/Bj10216.java)
+ 백준|[여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352)|[정답](https://github.com/corrvax/algorithm/blob/master/src/LineSweeping/Bj17352.java)
+ 백준|[귀찮은 해강이](https://www.acmicpc.net/problem/24391)|[정답](https://github.com/corrvax/algorithm/blob/master/src/LineSweeping/Bj24391.java)
