@@ -5,37 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8631ed66-0571-437e-9b62-2b298fa7e148" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearch/Bj24039.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicPrograming/Bj17128.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack_Queue/Bj10828.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack_Queue/Bj10828.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack_Queue/Bj10845.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack_Queue/Bj10845.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack_Queue/Bj10866.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack_Queue/Bj10866.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack_Queue/Bj1158.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack_Queue/Bj1158.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack_Queue/Bj9093.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack_Queue/Bj9093.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binary_search/Bj2512.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary_search/Bj2512.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/disjoint_set/Bj24391.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementation/Bj2562.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/implementation/Bj2562.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementation/Pro12977.java" beforeDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/src/dfs_bfs/Bj2606.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binary_search/Bj1654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary_search/Bj1654.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binary_search/Bj2110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary_search/Bj2110.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binary_search/Bj24039.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary_search/Bj24039.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binary_search/Bj2512.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary_search/Bj2512.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binary_search/Bj2805.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary_search/Bj2805.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binary_search/Bj8983.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary_search/Bj8983.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/disjoint_set/Bj4803.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/disjoint_set/Bj4803.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamic_programing/Bj17128.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamic_programing/Bj17128.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementation/Bj2562.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/implementation/Bj2562.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementation/Pro12977.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack_queue/Bj10828.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack_queue/Bj10828.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack_queue/Bj10845.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack_queue/Bj10845.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack_queue/Bj10866.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack_queue/Bj10866.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack_queue/Bj1158.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack_queue/Bj1158.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack_queue/Bj9093.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack_queue/Bj9093.java" afterDir="false" />
->>>>>>> a2b62a582ef98c8bebf055d5856fddbe32e2d3e2
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,28 +60,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-<<<<<<< HEAD
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.21384615" />
-=======
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
->>>>>>> a2b62a582ef98c8bebf055d5856fddbe32e2d3e2
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/step" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bj2606 (1)">
-    <configuration name="Bj24391" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="disjoint_set.Bj24391" />
-      <module name="algorithm_java" />
+  <component name="RunManager" selected="Application.Bj1260">
+    <configuration name="Bj1260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj1260" />
+      <module name="algorithm1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="disjoint_set.*" />
+          <option name="PATTERN" value="dfs_bfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,8 +84,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj2583" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj2583" />
+    <configuration name="Bj2178" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj2178" />
+      <module name="algorithm_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dfs_bfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bj2206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj2206" />
       <module name="algorithm_java" />
       <extension name="coverage">
         <pattern>
@@ -146,26 +136,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj4803" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="disjoint_set.Bj4803" />
-      <module name="algorithm_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="disjoint_set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bj1260" />
+        <item itemvalue="Application.Bj2178" />
+        <item itemvalue="Application.Bj2206" />
         <item itemvalue="Application.Bj2606 (1)" />
         <item itemvalue="Application.Bj2606" />
-        <item itemvalue="Application.Bj2583" />
-        <item itemvalue="Application.Bj24391" />
-        <item itemvalue="Application.Bj4803" />
       </list>
     </recent_temporary>
   </component>
@@ -206,5 +194,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
