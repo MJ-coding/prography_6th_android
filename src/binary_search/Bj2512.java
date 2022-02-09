@@ -32,7 +32,7 @@ public class Bj2512 {
 
         while(start <= end){
             mid = (start+end)/2;
-            
+
             if(calcTotal(mid) <= M){
                 start = mid + 1;
                 answer = mid;

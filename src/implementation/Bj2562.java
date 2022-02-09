@@ -8,7 +8,7 @@ import java.util.TreeMap;
 public class Bj2562 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        //key기준으로 정렬
+        //key기준으로 정렬 TreeMap : 입력과 동시에 정렬됨
         TreeMap<Integer,Integer> map = new TreeMap<>();
         for(int i =1; i<10; i++){
             map.put(Integer.parseInt(br.readLine()),i);
