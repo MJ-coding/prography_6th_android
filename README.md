@@ -35,12 +35,12 @@ Cancel changes
  ## 👉스택&큐
  출처|문제|풀이
  ---|----|----
- 백준|[스택](https://www.acmicpc.net/problem/10828) | [정답](https://github.com/corrvax/algorithm/blob/master/src/Stack_Queue/Bj10828.java)
- 백준|[큐](https://www.acmicpc.net/problem/10845) | [정답](https://github.com/corrvax/algorithm/blob/master/src/Stack_Queue/Bj10845.java)
- 백준|[덱](https://www.acmicpc.net/problem/10866) | [정답](https://github.com/corrvax/algorithm/blob/master/src/Stack_Queue/Bj10866.java)
- 백준|[요세푸스 문제](https://www.acmicpc.net/problem/1158) |[정답](https://github.com/corrvax/algorithm/blob/master/src/Stack_Queue/Bj1158.java)
- 백준|[단어 뒤집기](https://www.acmicpc.net/problem/9093) | [정답](https://github.com/corrvax/algorithm/blob/master/src/Stack_Queue/Bj9093.java)
- 백준|[프린터 큐](https://www.acmicpc.net/problem/1966) | [정답](https://github.com/corrvax/algorithm/blob/master/src/Stack_Queue/Bj1966.java)
+ 백준|[스택](https://www.acmicpc.net/problem/10828) | [정답](https://github.com/corrvax/algorithm/blob/master/src/stack_queue/Bj10828.java)
+ 백준|[큐](https://www.acmicpc.net/problem/10845) | [정답](https://github.com/corrvax/algorithm/blob/master/src/stack_queue/Bj10845.java)
+ 백준|[덱](https://www.acmicpc.net/problem/10866) | [정답](https://github.com/corrvax/algorithm/blob/master/src/stack_queue/Bj10866.java)
+ 백준|[요세푸스 문제](https://www.acmicpc.net/problem/1158) |[정답](https://github.com/corrvax/algorithm/blob/master/src/stack_queue/Bj1158.java)
+ 백준|[단어 뒤집기](https://www.acmicpc.net/problem/9093) | [정답](https://github.com/corrvax/algorithm/blob/master/src/stack_queue/Bj9093.java)
+ 백준|[프린터 큐](https://www.acmicpc.net/problem/1966) | [정답](https://github.com/corrvax/algorithm/blob/master/src/stack_queue/Bj1966.java)
  프로그래머스|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[정답]()
  프로그래머스 |[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|[정답]()
  프로그래머스|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|[정답]()
@@ -62,11 +62,11 @@ Cancel changes
 ---
  출처|문제|풀이
  ---|----|----
- 백준|[미로탐색](https://www.acmicpc.net/problem/2178)|[정답](https://github.com/corrvax/algorithm/blob/master/src/DFS_BFS/Bj2178.java)
+ 백준|[미로탐색](https://www.acmicpc.net/problem/2178)|[정답](https://github.com/corrvax/algorithm/blob/master/src/dfs_bfs/Bj2178.java)
  백준|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[정답](https://github.com/corrvax/algorithm/blob/master/src/dfs_bfs/Bj2667.java)
  백준|[벽부수고 이동하기](https://www.acmicpc.net/problem/2206)|[정답](https://github.com/corrvax/algorithm/blob/master/src/dfs_bfs/Bj2206.java)
  백준|[영역구하기](https://www.acmicpc.net/problem/2583)|[정답](https://github.com/corrvax/algorithm/blob/master/src/dfs_bfs/Bj2583.java))
- 백준|[바이러스](https://www.acmicpc.net/problem/2606)|[정답](https://github.com/corrvax/algorithm/blob/master/src/difs_bfs/Bj2606.java)
+ 백준|[바이러스](https://www.acmicpc.net/problem/2606)|[정답](https://github.com/corrvax/algorithm/blob/master/src/dfs_bfs/Bj2606.java)
  
  ---
  ##  👉Map&Set
@@ -85,17 +85,17 @@ Cancel changes
 ##  👉이진탐색
  출처|문제|풀이
  ---|----|----
- 백준|[2021은 무엇이 특별할까](https://www.acmicpc.net/problem/24039)|[정답](https://github.com/corrvax/algorithm/blob/master/src/BinarySearch/Bj24039.java)
- 백준|[공유기 설치](https://www.acmicpc.net/problem/2110)|[정답](https://github.com/corrvax/algorithm/blob/master/src/BinarySearch/Bj2110.java)
- 백준|[랜선 자르기](https://www.acmicpc.net/problem/1654)|[정답](https://github.com/corrvax/algorithm/blob/master/src/BinarySearch/Bj1654.java)
- 백준|[나무 자르기](https://www.acmicpc.net/problem/2805)|[정답](https://github.com/corrvax/algorithm/blob/master/src/BinarySearch/Bj2805.java)
- 백준|[게임](https://www.acmicpc.net/problem/1072)|[정답](https://github.com/corrvax/algorithm/blob/master/src/BinarySearch/Bj1072.java)
+ 백준|[2021은 무엇이 특별할까](https://www.acmicpc.net/problem/24039)|[정답](https://github.com/corrvax/algorithm/blob/master/src/binarySearch/Bj24039.java)
+ 백준|[공유기 설치](https://www.acmicpc.net/problem/2110)|[정답](https://github.com/corrvax/algorithm/blob/master/src/binarySearch/Bj2110.java)
+ 백준|[랜선 자르기](https://www.acmicpc.net/problem/1654)|[정답](https://github.com/corrvax/algorithm/blob/master/src/binarySearch/Bj1654.java)
+ 백준|[나무 자르기](https://www.acmicpc.net/problem/2805)|[정답](https://github.com/corrvax/algorithm/blob/master/src/binary_search/Bj2805.java)
+ 백준|[게임](https://www.acmicpc.net/problem/1072)|[정답](https://github.com/corrvax/algorithm/blob/master/src/binarySearch/Bj1072.java)
  
  
 ##  👉다이나믹 프로그래밍
  출처|문제|풀이
  ---|----|----
- 백준|[소가 정보섬에 올라간 이유](https://www.acmicpc.net/problem/17128)|[정답](https://github.com/corrvax/algorithm/blob/master/src/DynamicPrograming/Bj17128.java)
+ 백준|[소가 정보섬에 올라간 이유](https://www.acmicpc.net/problem/17128)|[정답](https://github.com/corrvax/algorithm/blob/master/src/dynamicPrograming/Bj17128.java)
 ##  👉최단 경로
 ---
  출처|문제|풀이
@@ -105,14 +105,14 @@ Cancel changes
 ##  👉문자열
  출처|문제|풀이
  ---|----|----
- 백준|[괄호의 값](https://www.acmicpc.net/problem/2504)|[정답](https://github.com/corrvax/algorithm/blob/master/src/StringHandle/Bj2504.java)
+ 백준|[괄호의 값](https://www.acmicpc.net/problem/2504)|[정답](https://github.com/corrvax/algorithm/blob/master/src/string_handle/Bj2504.java)
  백준|[팬그램](https://www.acmicpc.net/problem/10384)|[정답](https://github.com/corrvax/algorithm/blob/master/src/string_handle/Bj10384.java)
  
  ##  👉스위핑
 ---
  출처|문제|풀이
  ---|----|----
- 백준|[최소회의실개수](https://www.acmicpc.net/problem/19598)|[정답](https://github.com/corrvax/algorithm/blob/master/src/LineSweeping/Bj19598.java)
+ 백준|[최소회의실개수](https://www.acmicpc.net/problem/19598)|[정답](https://github.com/corrvax/algorithm/blob/master/src/line_sweeping/Bj19598.java)
  
   ##  👉서로소 집합
 ---
