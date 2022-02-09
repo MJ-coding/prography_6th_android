@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/algorithm_java.iml" filepath="$PROJECT_DIR$/algorithm_java.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/src/algorithm_java.iml" filepath="$PROJECT_DIR$/src/algorithm_java.iml" />
->>>>>>> f8e0d4ff952422eab23d8a416c82f0c1690574c9
     </modules>
   </component>
 </project>
