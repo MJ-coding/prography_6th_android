@@ -66,6 +66,7 @@ Cancel changes
  백준|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[정답](https://github.com/corrvax/algorithm/blob/master/src/dfs_bfs/Bj2667.java)
  백준|[벽부수고 이동하기](https://www.acmicpc.net/problem/2206)|[정답](https://github.com/corrvax/algorithm/blob/master/src/dfs_bfs/Bj2206.java)
  백준|[영역구하기](https://www.acmicpc.net/problem/2583)|[정답](https://github.com/corrvax/algorithm/blob/master/src/dfs_bfs/Bj2583.java))
+ 백준|[바이러스](https://www.acmicpc.net/problem/2606)|[정답](https://github.com/corrvax/algorithm/blob/master/src/difs_bfs/Bj2606.java)
  
  ---
  ##  👉Map&Set
@@ -117,7 +118,7 @@ Cancel changes
 ---
  출처|문제|풀이
  ---|----|----
- 백준|[Count Circle Groups](https://www.acmicpc.net/problem/10216)|[정답](https://github.com/corrvax/algorithm/blob/master/src/LineSweeping/Bj10216.java)
- 백준|[여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352)|[정답](https://github.com/corrvax/algorithm/blob/master/src/LineSweeping/Bj17352.java)
- 백준|[귀찮은 해강이](https://www.acmicpc.net/problem/24391)|[정답](https://github.com/corrvax/algorithm/blob/master/src/LineSweeping/Bj24391.java)
- 백준|[바이러스](https://www.acmicpc.net/problem/2606)|[정답](https://github.com/corrvax/algorithm/blob/master/src/LineSweeping/Bj2606.java)
+ 백준|[Count Circle Groups](https://www.acmicpc.net/problem/10216)|[정답](https://github.com/corrvax/algorithm/blob/master/src/disjoint_set/Bj10216.java)
+ 백준|[여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352)|[정답](https://github.com/corrvax/algorithm/blob/master/src/disjoint_set/Bj17352.java)
+ 백준|[귀찮은 해강이](https://www.acmicpc.net/problem/24391)|[정답](https://github.com/corrvax/algorithm/blob/master/src/disjoint_set/Bj24391.java)
+ 백준|[바이러스](https://www.acmicpc.net/problem/2606)|[정답](https://github.com/corrvax/algorithm/blob/master/src/disjoint_set/Bj2606.java)
