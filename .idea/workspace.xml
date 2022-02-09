@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8631ed66-0571-437e-9b62-2b298fa7e148" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BinarySearch/Bj24039.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DynamicPrograming/Bj17128.java" beforeDir="false" />
@@ -17,6 +18,24 @@
       <change beforePath="$PROJECT_DIR$/src/disjoint_set/Bj24391.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/implementation/Bj2562.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/implementation/Bj2562.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/implementation/Pro12977.java" beforeDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/dfs_bfs/Bj2606.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binary_search/Bj1654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary_search/Bj1654.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binary_search/Bj2110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary_search/Bj2110.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binary_search/Bj24039.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary_search/Bj24039.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binary_search/Bj2512.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary_search/Bj2512.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binary_search/Bj2805.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary_search/Bj2805.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binary_search/Bj8983.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary_search/Bj8983.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/disjoint_set/Bj4803.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/disjoint_set/Bj4803.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dynamic_programing/Bj17128.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamic_programing/Bj17128.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/implementation/Bj2562.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/implementation/Bj2562.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/implementation/Pro12977.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack_queue/Bj10828.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack_queue/Bj10828.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack_queue/Bj10845.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack_queue/Bj10845.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack_queue/Bj10866.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack_queue/Bj10866.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack_queue/Bj1158.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack_queue/Bj1158.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack_queue/Bj9093.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack_queue/Bj9093.java" afterDir="false" />
+>>>>>>> a2b62a582ef98c8bebf055d5856fddbe32e2d3e2
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +78,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.21384615" />
+=======
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+>>>>>>> a2b62a582ef98c8bebf055d5856fddbe32e2d3e2
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
