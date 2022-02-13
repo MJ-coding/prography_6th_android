@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8631ed66-0571-437e-9b62-2b298fa7e148" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_search/Bj2110.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfs_bfs/Bj1697.java" beforeDir="false" afterPath="$PROJECT_DIR$/dfs_bfs/Bj1697.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfs_bfs/Bj2583.java" beforeDir="false" afterPath="$PROJECT_DIR$/dfs_bfs/Bj2583.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Bj1697.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Bj1697.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Bj2583.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Bj2583.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Point2583.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Point2583.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj2178" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj2178" />
-      <module name="algorithm_java" />
+    <configuration name="Friend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Friend" />
+      <module name="intellij-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dfs_bfs.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj2206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj2206" />
-      <module name="algorithm_java" />
+    <configuration name="Hobbies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Hobbies" />
+      <module name="intellij-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dfs_bfs.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj2606 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj2606" />
-      <module name="algorithm_java" />
+    <configuration name="MaxSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.MaxSum" />
+      <module name="intellij-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dfs_bfs.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,10 +146,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Bj1697" />
+        <item itemvalue="Application.Friend" />
+        <item itemvalue="Application.MaxSum" />
+        <item itemvalue="Application.Hobbies" />
         <item itemvalue="Application.Bj1260" />
-        <item itemvalue="Application.Bj2178" />
-        <item itemvalue="Application.Bj2206" />
-        <item itemvalue="Application.Bj2606 (1)" />
       </list>
     </recent_temporary>
   </component>
