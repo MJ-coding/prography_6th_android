@@ -10,37 +10,37 @@
 Cancel changes
 출처|문제|풀이
 ---|---- | ---- 
-백준|[별짓기1](https://www.acmicpc.net/problem/2438) |[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj2438.java) 
-백준|[별짓기2](https://www.acmicpc.net/problem/2439) |[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj2439.java) 
-백준|[별짓기3](https://www.acmicpc.net/problem/2440) |[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj2440.java) 
-백준|[별짓기4](https://www.acmicpc.net/problem/2441) |[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj2441.java) 
-백준|[별짓기5](https://www.acmicpc.net/problem/2442) |[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj2442.java) 
-백준|[별짓기6](https://www.acmicpc.net/problem/2443) |[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj2443.java) 
-백준|[별짓기7](https://www.acmicpc.net/problem/2444) |[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj2444.java) 
-백준|[카이사르 암호](https://www.acmicpc.net/problem/5598)|[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj5598.java)
-백준|[최댓값](https://www.acmicpc.net/problem/2562)|[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj2562.java)
-백준|[팩토리얼](https://www.acmicpc.net/problem/10872)|[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj10872.java)
-백준|[약수](https://www.acmicpc.net/problem/1037)|[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj1037.java)
-백준|[홀수](https://www.acmicpc.net/problem/2576)|[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj2576.java)
-백준|[평균](https://www.acmicpc.net/problem/1546)|[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj1546.java)
-백준|[최소,최대](https://www.acmicpc.net/problem/10818)|[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj10818.java)
-백준|[알파벳 찾기](https://www.acmicpc.net/problem/10809)|[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj10809.java)
-백준|[이진수](https://www.acmicpc.net/problem/3460)|[정답](https://github.com/EJ-coding/algorithm/blob/master/src/implementation/Bj3460.java)
-프로그래머스|[소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[정답](https://github.com/corrvax/algorithm/blob/master/src/implementation/Pro12977.java)
-2021 KAKAO BLIND RECRUITMENT|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[정답](https://github.com/corrvax/algorithm/blob/master/src/implementation/Pro71418.java)
-2020 KAKAO INTERNSHIP|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[정답](https://github.com/corrvax/algorithm/blob/master/src/implementation/Pro71418.java)
+백준|[별짓기1](https://www.acmicpc.net/problem/2438) |[정답](https://github.com/EJ-coding/algorithm/blob/master/implementation/Bj2438.java) 
+백준|[별짓기2](https://www.acmicpc.net/problem/2439) |[정답](https://github.com/EJ-coding/algorithm/blob/master/implementation/Bj2439.java) 
+백준|[별짓기3](https://www.acmicpc.net/problem/2440) |[정답](https://github.com/EJ-coding/algorithm/blob/master/implementation/Bj2440.java) 
+백준|[별짓기4](https://www.acmicpc.net/problem/2441) |[정답](https://github.com/EJ-coding/algorithm/blob/master/implementation/Bj2441.java) 
+백준|[별짓기5](https://www.acmicpc.net/problem/2442) |[정답](https://github.com/EJ-coding/algorithm/blob/master/implementation/Bj2442.java) 
+백준|[별짓기6](https://www.acmicpc.net/problem/2443) |[정답](https://github.com/EJ-coding/algorithm/blob/master/implementation/Bj2443.java) 
+백준|[별짓기7](https://www.acmicpc.net/problem/2444) |[정답](https://github.com/EJ-coding/algorithm/blob/master/implementation/Bj2444.java) 
+백준|[카이사르 암호](https://www.acmicpc.net/problem/5598)|[정답](https://github.com/EJ-coding/algorithm/blob/master/implementation/Bj5598.java)
+백준|[최댓값](https://www.acmicpc.net/problem/2562)|[정답](https://github.com/EJ-coding/algorithm/blob/master/implementation/Bj2562.java)
+백준|[팩토리얼](https://www.acmicpc.net/problem/10872)|[정답](https://github.com/EJ-coding/algorithm/blob/master/implementation/Bj10872.java)
+백준|[약수](https://www.acmicpc.net/problem/1037)|[정답](https://github.com/EJ-coding/algorithm/blob/master/implementation/Bj1037.java)
+백준|[홀수](https://www.acmicpc.net/problem/2576)|[정답](https://github.com/EJ-coding/algorithm/blob/master/implementation/Bj2576.java)
+백준|[평균](https://www.acmicpc.net/problem/1546)|[정답](https://github.com/EJ-coding/algorithm/blob/master/implementation/Bj1546.java)
+백준|[최소,최대](https://www.acmicpc.net/problem/10818)|[정답](https://github.com/EJ-coding/algorithm/blob/master/implementation/Bj10818.java)
+백준|[알파벳 찾기](https://www.acmicpc.net/problem/10809)|[정답](https://github.com/EJ-coding/algorithm/blob/master/implementation/Bj10809.java)
+백준|[이진수](https://www.acmicpc.net/problem/3460)|[정답](https://github.com/EJ-coding/algorithm/blob/master/implementation/Bj3460.java)
+프로그래머스|[소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[정답](https://github.com/corrvax/algorithm/blob/master/implementation/Pro12977.java)
+2021 KAKAO BLIND RECRUITMENT|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[정답](https://github.com/corrvax/algorithm/blob/master/implementation/Pro71418.java)
+2020 KAKAO INTERNSHIP|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[정답](https://github.com/corrvax/algorithm/blob/master/implementation/Pro71418.java)
 
 
  ---
  ## 👉스택&큐
  출처|문제|풀이
  ---|----|----
- 백준|[스택](https://www.acmicpc.net/problem/10828) | [정답](https://github.com/corrvax/algorithm/blob/master/src/stack_queue/Bj10828.java)
- 백준|[큐](https://www.acmicpc.net/problem/10845) | [정답](https://github.com/corrvax/algorithm/blob/master/src/stack_queue/Bj10845.java)
- 백준|[덱](https://www.acmicpc.net/problem/10866) | [정답](https://github.com/corrvax/algorithm/blob/master/src/stack_queue/Bj10866.java)
- 백준|[요세푸스 문제](https://www.acmicpc.net/problem/1158) |[정답](https://github.com/corrvax/algorithm/blob/master/src/stack_queue/Bj1158.java)
- 백준|[단어 뒤집기](https://www.acmicpc.net/problem/9093) | [정답](https://github.com/corrvax/algorithm/blob/master/src/stack_queue/Bj9093.java)
- 백준|[프린터 큐](https://www.acmicpc.net/problem/1966) | [정답](https://github.com/corrvax/algorithm/blob/master/src/stack_queue/Bj1966.java)
+ 백준|[스택](https://www.acmicpc.net/problem/10828) | [정답](https://github.com/corrvax/algorithm/blob/master/stack_queue/Bj10828.java)
+ 백준|[큐](https://www.acmicpc.net/problem/10845) | [정답](https://github.com/corrvax/algorithm/blob/master/stack_queue/Bj10845.java)
+ 백준|[덱](https://www.acmicpc.net/problem/10866) | [정답](https://github.com/corrvax/algorithm/blob/master/stack_queue/Bj10866.java)
+ 백준|[요세푸스 문제](https://www.acmicpc.net/problem/1158) |[정답](https://github.com/corrvax/algorithm/blob/master/stack_queue/Bj1158.java)
+ 백준|[단어 뒤집기](https://www.acmicpc.net/problem/9093) | [정답](https://github.com/corrvax/algorithm/blob/master/stack_queue/Bj9093.java)
+ 백준|[프린터 큐](https://www.acmicpc.net/problem/1966) | [정답](https://github.com/corrvax/algorithm/blob/master/stack_queue/Bj1966.java)
  프로그래머스|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[정답]()
  프로그래머스 |[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|[정답]()
  프로그래머스|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|[정답]()
@@ -67,6 +67,7 @@ Cancel changes
  백준|[벽부수고 이동하기](https://www.acmicpc.net/problem/2206)|[정답](https://github.com/corrvax/algorithm/blob/master/src/dfs_bfs/Bj2206.java)
  백준|[영역구하기](https://www.acmicpc.net/problem/2583)|[정답](https://github.com/corrvax/algorithm/blob/master/src/dfs_bfs/Bj2583.java))
  백준|[바이러스](https://www.acmicpc.net/problem/2606)|[정답](https://github.com/corrvax/algorithm/blob/master/src/dfs_bfs/Bj2606.java)
+ 백준|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[정답](https://github.com/corrvax/algorithm/blob/master/src/dfs_bfs/Bj1697.java)
  
  ---
  ##  👉Map&Set

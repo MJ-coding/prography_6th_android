@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8631ed66-0571-437e-9b62-2b298fa7e148" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dfs_bfs/Bj14226.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +61,10 @@
       <recent name="$PROJECT_DIR$/src/step" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bj1697">
-    <configuration name="Bj1260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj1260" />
-      <module name="algorithm1" />
+  <component name="RunManager" selected="Application.Bj14226">
+    <configuration name="Bj14226" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj14226" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="dfs_bfs.*" />
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bj14226" />
         <item itemvalue="Application.Bj1697" />
         <item itemvalue="Application.Friend" />
         <item itemvalue="Application.MaxSum" />
         <item itemvalue="Application.Hobbies" />
-        <item itemvalue="Application.Bj1260" />
       </list>
     </recent_temporary>
   </component>
