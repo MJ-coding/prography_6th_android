@@ -99,6 +99,8 @@ Cancel changes
  출처|문제|풀이
  ---|----|----
  백준|[소가 정보섬에 올라간 이유](https://www.acmicpc.net/problem/17128)|[정답](https://github.com/corrvax/algorithm/blob/master/dynamic_programing/Bj17128.java)
+ 백준|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|[정답](https://github.com/corrvax/algorithm/blob/master/dynamic_programing/Bj9095.java)
+
 ##  👉최단 경로
 ---
  출처|문제|풀이
