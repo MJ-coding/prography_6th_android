@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8631ed66-0571-437e-9b62-2b298fa7e148" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dynamic_programming/Bj1759.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dfs_bfs/Bj7576.java" beforeDir="false" afterPath="$PROJECT_DIR$/dfs_bfs/Bj7576.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Bj7576.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Bj7576.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
