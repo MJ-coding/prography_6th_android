@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8631ed66-0571-437e-9b62-2b298fa7e148" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/Bj14502.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/Bj17141.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Bj7576.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Bj7576.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Location7576.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Location7576.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,26 +61,16 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dfs_bfs" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/step" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bj1697">
-    <configuration name="Bj1260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj1260" />
-      <module name="algorithm1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dfs_bfs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bj1697" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj1697" />
+  <component name="RunManager" selected="Application.Bj17141">
+    <configuration name="Bj1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj1012" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -88,9 +82,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj2178" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj2178" />
-      <module name="algorithm_java" />
+    <configuration name="Bj14502" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.Bj14502" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bj17141" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.Bj17141" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bj7576" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj7576" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="dfs_bfs.*" />
@@ -101,25 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj2206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj2206" />
-      <module name="algorithm_java" />
+    <configuration name="Bj9095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamic_programming.Bj9095" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dfs_bfs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bj2606 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj2606" />
-      <module name="algorithm_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dfs_bfs.*" />
+          <option name="PATTERN" value="dynamic_programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bj1697" />
-        <item itemvalue="Application.Bj1260" />
-        <item itemvalue="Application.Bj2178" />
-        <item itemvalue="Application.Bj2206" />
-        <item itemvalue="Application.Bj2606 (1)" />
+        <item itemvalue="Application.Bj17141" />
+        <item itemvalue="Application.Bj14502" />
+        <item itemvalue="Application.Bj7576" />
+        <item itemvalue="Application.Bj9095" />
+        <item itemvalue="Application.Bj1012" />
       </list>
     </recent_temporary>
   </component>

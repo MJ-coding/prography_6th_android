@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8631ed66-0571-437e-9b62-2b298fa7e148" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Bj7576.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Bj7576.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Location7576.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Location7576.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +67,7 @@
       <recent name="$PROJECT_DIR$/src/step" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bj7576">
+  <component name="RunManager" selected="Application.Bj17141">
     <configuration name="Bj1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj1012" />
       <module name="algorithm" />
@@ -76,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj14226" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj14226" />
+    <configuration name="Bj14502" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.Bj14502" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dfs_bfs.*" />
+          <option name="PATTERN" value="backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj1697" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj1697" />
+    <configuration name="Bj17141" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.Bj17141" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dfs_bfs.*" />
+          <option name="PATTERN" value="backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bj17141" />
+        <item itemvalue="Application.Bj14502" />
         <item itemvalue="Application.Bj7576" />
         <item itemvalue="Application.Bj9095" />
         <item itemvalue="Application.Bj1012" />
-        <item itemvalue="Application.Bj14226" />
-        <item itemvalue="Application.Bj1697" />
       </list>
     </recent_temporary>
   </component>
