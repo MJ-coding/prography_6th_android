@@ -128,3 +128,11 @@ Cancel changes
  백준|[여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352)|[정답](https://github.com/corrvax/algorithm/blob/master/disjoint_set/Bj17352.java)
  백준|[귀찮은 해강이](https://www.acmicpc.net/problem/24391)|[정답](https://github.com/corrvax/algorithm/blob/master/disjoint_set/Bj24391.java)
  백준|[바이러스](https://www.acmicpc.net/problem/2606)|[정답](https://github.com/corrvax/algorithm/blob/master/disjoint_set/Bj2606.java)
+
+
+##  👉BackTracking
+---
+출처|문제|풀이
+---|----|----
+백준|[연구소](https://www.acmicpc.net/problem/14502)|[정답](https://github.com/corrvax/algorithm/blob/master/backtracking/Bj14502.java)
+백준|[연구소2](https://www.acmicpc.net/problem/17141)|[정답](https://github.com/corrvax/algorithm/blob/master/backtracking/Bj17141.java)
