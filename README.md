@@ -138,3 +138,5 @@ Cancel changes
 백준|[연구소2](https://www.acmicpc.net/problem/17141)|[정답](https://github.com/corrvax/algorithm/blob/master/backtracking/Bj17141.java)
 백준|[N과M(1)](https://www.acmicpc.net/problem/15649)|[정답](https://github.com/corrvax/algorithm/blob/master/backtracking/Bj15649.java)
 백준|[N과M(2)](https://www.acmicpc.net/problem/15650)|[정답](https://github.com/corrvax/algorithm/blob/master/backtracking/Bj15650.java)
+백준|[N과M(3)](https://www.acmicpc.net/problem/15651)|[정답](https://github.com/corrvax/algorithm/blob/master/backtracking/Bj15651.java)
+백준|[N과M(4)](https://www.acmicpc.net/problem/15652)|[정답](https://github.com/corrvax/algorithm/blob/master/backtracking/Bj15652.java)
