@@ -94,6 +94,7 @@ Cancel changes
  백준|[랜선 자르기](https://www.acmicpc.net/problem/1654)|[정답](https://github.com/corrvax/algorithm/blob/master/binarySearch/Bj1654.java)
  백준|[나무 자르기](https://www.acmicpc.net/problem/2805)|[정답](https://github.com/corrvax/algorithm/blob/master/binary_search/Bj2805.java)
  백준|[게임](https://www.acmicpc.net/problem/1072)|[정답](https://github.com/corrvax/algorithm/blob/master/binary_search/Bj1072.java)
+ 백준|[사회적 거리 두기](https://www.acmicpc.net/problem/20917)|[정답](https://github.com/corrvax/algorithm/blob/master/binary_search/Bj20917.java)
  
  
 ##  👉다이나믹 프로그래밍
@@ -130,7 +131,7 @@ Cancel changes
  백준|[바이러스](https://www.acmicpc.net/problem/2606)|[정답](https://github.com/corrvax/algorithm/blob/master/disjoint_set/Bj2606.java)
 
 
-##  👉BackTracking
+##  👉BackTrackingjn
 ---
 출처|문제|풀이
 ---|----|----
