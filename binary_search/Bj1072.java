@@ -32,7 +32,6 @@ public class Bj1072 {
                 start = mid + 1;
             }
         }
-
         return  answer;
     }
 

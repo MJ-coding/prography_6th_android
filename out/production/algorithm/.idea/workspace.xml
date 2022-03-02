@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8631ed66-0571-437e-9b62-2b298fa7e148" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/backtracking/Bj14502.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtracking/Bj17141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dijkstra/Bj1916.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Bj7576.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Bj7576.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Location7576.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/dfs_bfs/Location7576.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary_search/Bj1072.java" beforeDir="false" afterPath="$PROJECT_DIR$/binary_search/Bj1072.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,22 +65,9 @@
       <recent name="$PROJECT_DIR$/src/step" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bj17141">
-    <configuration name="Bj1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj1012" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dfs_bfs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bj14502" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backtracking.Bj14502" />
+  <component name="RunManager" selected="Application.Bj1916">
+    <configuration name="Bj15651" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.Bj15651" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj17141" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backtracking.Bj17141" />
+    <configuration name="Bj15652" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.Bj15652" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -108,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj7576" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dfs_bfs.Bj7576" />
+    <configuration name="Bj17142" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.Bj17142" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dfs_bfs.*" />
+          <option name="PATTERN" value="backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +105,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj9095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dynamic_programming.Bj9095" />
+    <configuration name="Bj1916" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dijkstra.Bj1916" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dynamic_programming.*" />
+          <option name="PATTERN" value="dijkstra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bj20917" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binary_search.Bj20917" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binary_search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bj17141" />
-        <item itemvalue="Application.Bj14502" />
-        <item itemvalue="Application.Bj7576" />
-        <item itemvalue="Application.Bj9095" />
-        <item itemvalue="Application.Bj1012" />
+        <item itemvalue="Application.Bj1916" />
+        <item itemvalue="Application.Bj20917" />
+        <item itemvalue="Application.Bj15652" />
+        <item itemvalue="Application.Bj17142" />
+        <item itemvalue="Application.Bj15651" />
       </list>
     </recent_temporary>
   </component>
