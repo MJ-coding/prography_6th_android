@@ -107,6 +107,10 @@ Cancel changes
 ---
  출처|문제|풀이
  ---|----|----
+ 백준|[특정 거리의 도시찾기](https://www.acmicpc.net/problem/18352)|[정답](https://github.com/corrvax/algorithm/blob/master/dijkstra/Bj18352.java)
+ 백준|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|[정답](https://github.com/corrvax/algorithm/blob/master/dijkstra/Bj1916.java)
+
+
 ##  👉그래프
 ---
 ##  👉문자열
