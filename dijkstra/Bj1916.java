@@ -85,4 +85,5 @@ class Information{
         this.city = city;
         this.cost = cost;
     }
+
 }
