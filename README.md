@@ -108,6 +108,7 @@ Cancel changes
  ---|----|----
  백준|[특정 거리의 도시찾기](https://www.acmicpc.net/problem/18352)|[정답](https://github.com/corrvax/algorithm/blob/master/dijkstra/Bj18352.java)
  백준|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|[정답](https://github.com/corrvax/algorithm/blob/master/dijkstra/Bj1916.java)
+ 백준|[최단경로](https://www.acmicpc.net/problem/1753)|[정답](https://github.com/corrvax/algorithm/blob/master/dijkstra/Bj1753.java)
 
 
 ##  👉Two Pointer & Sliding Window
@@ -140,7 +141,7 @@ Cancel changes
  백준|[바이러스](https://www.acmicpc.net/problem/2606)|[정답](https://github.com/corrvax/algorithm/blob/master/disjoint_set/Bj2606.java)
 
 
-##  👉BackTrackingjn
+##  👉BackTracking
 ---
 출처|문제|풀이
 ---|----|----
