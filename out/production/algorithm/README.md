@@ -79,6 +79,7 @@ Cancel changes
  백준|[패션왕 신혜빈](https://www.acmicpc.net/problem/9375)|[정답](https://github.com/corrvax/algorithm/blob/master/src/map_set/Bj9375.java)
  백준|[듣보잡](https://www.acmicpc.net/problem/1764)|[정답](https://github.com/corrvax/algorithm/blob/master/src/map_set/Bj1764.java)
  백준|[철벽 보안 알고리즘](https://www.acmicpc.net/problem/9322)|[정답](https://github.com/corrvax/algorithm/blob/master/src/map_set/Bj9322.java)
+ 백준|[빈도 정렬](https://www.acmicpc.net/problem/2910)|[정답](https://github.com/corrvax/algorithm/blob/master/src/map_set/Bj2910.java)
  
 ##  👉정렬
  출처|문제|풀이
@@ -108,6 +109,7 @@ Cancel changes
  ---|----|----
  백준|[특정 거리의 도시찾기](https://www.acmicpc.net/problem/18352)|[정답](https://github.com/corrvax/algorithm/blob/master/dijkstra/Bj18352.java)
  백준|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|[정답](https://github.com/corrvax/algorithm/blob/master/dijkstra/Bj1916.java)
+ 백준|[최단경로](https://www.acmicpc.net/problem/1753)|[정답](https://github.com/corrvax/algorithm/blob/master/dijkstra/Bj1753.java)
 
 
 ##  👉Two Pointer & Sliding Window
@@ -140,7 +142,7 @@ Cancel changes
  백준|[바이러스](https://www.acmicpc.net/problem/2606)|[정답](https://github.com/corrvax/algorithm/blob/master/disjoint_set/Bj2606.java)
 
 
-##  👉BackTrackingjn
+##  👉BackTracking
 ---
 출처|문제|풀이
 ---|----|----

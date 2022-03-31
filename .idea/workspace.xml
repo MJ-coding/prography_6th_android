@@ -5,7 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8631ed66-0571-437e-9b62-2b298fa7e148" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/binary_search/Bj17951.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/Bj14501.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/Bj2193.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/Bj2696.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map_set/Bj10546.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map_set/Bj16165.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_handle/Bj1213.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dijkstra/Bj14630.java" beforeDir="false" afterPath="$PROJECT_DIR$/dijkstra/Bj14630.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic_programming/Bj12101.java" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic_programming/Bj12101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_handle/Bj13022.java" beforeDir="false" afterPath="$PROJECT_DIR$/string_handle/Bj13022.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_handle/Bj1411.java" beforeDir="false" afterPath="$PROJECT_DIR$/string_handle/Bj1411.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_handle/Bj20291.java" beforeDir="false" afterPath="$PROJECT_DIR$/string_handle/Bj20291.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +84,13 @@
       <recent name="$PROJECT_DIR$/src/step" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bj1753">
-    <configuration name="Bj13422" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sliding_window.Bj13422" />
+  <component name="RunManager" selected="Application.Test01">
+    <configuration name="Bj1213" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_handle.Bj1213" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sliding_window.*" />
+          <option name="PATTERN" value="string_handle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj1753" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dijkstra.Bj1753" />
+    <configuration name="Bj2193" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamic_programming.Bj2193" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dijkstra.*" />
+          <option name="PATTERN" value="dynamic_programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj17609" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="two_pointer.Bj17609" />
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="line.Test01" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="two_pointer.*" />
+          <option name="PATTERN" value="line.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj18352" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dijkstra.Bj18352" />
+    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="line.Test02" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dijkstra.*" />
+          <option name="PATTERN" value="line.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj1916" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dijkstra.Bj1916" />
+    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="skICT.Test03" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dijkstra.*" />
+          <option name="PATTERN" value="skICT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bj1753" />
-        <item itemvalue="Application.Bj13422" />
-        <item itemvalue="Application.Bj17609" />
-        <item itemvalue="Application.Bj18352" />
-        <item itemvalue="Application.Bj1916" />
+        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.Test02" />
+        <item itemvalue="Application.Bj2193" />
+        <item itemvalue="Application.Bj1213" />
+        <item itemvalue="Application.Test03" />
       </list>
     </recent_temporary>
   </component>
