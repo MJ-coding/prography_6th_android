@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8631ed66-0571-437e-9b62-2b298fa7e148" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/binary_search/Bj17951.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic_programming/Bj14501.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic_programming/Bj2193.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic_programming/Bj2696.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic_programming/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/line/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/line/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/line/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/line/Test04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/line/Test05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/line/Test06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map_set/Bj10546.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map_set/Bj16165.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_handle/Bj1213.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dijkstra/Bj14630.java" beforeDir="false" afterPath="$PROJECT_DIR$/dijkstra/Bj14630.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dynamic_programming/Bj12101.java" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic_programming/Bj12101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_handle/Bj13022.java" beforeDir="false" afterPath="$PROJECT_DIR$/string_handle/Bj13022.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_handle/Bj1411.java" beforeDir="false" afterPath="$PROJECT_DIR$/string_handle/Bj1411.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_handle/Bj20291.java" beforeDir="false" afterPath="$PROJECT_DIR$/string_handle/Bj20291.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
