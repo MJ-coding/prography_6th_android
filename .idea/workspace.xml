@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8631ed66-0571-437e-9b62-2b298fa7e148" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/do_it/Bj2018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/do_it/Bj11003.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/do_it/Bj10986.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/do_it/Bj10986.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
       <recent name="$PROJECT_DIR$/src/step" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bj1253">
+  <component name="RunManager" selected="Application.Bj11003">
     <configuration name="Bj10986" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="do_it.Bj10986" />
       <module name="algorithm" />
@@ -78,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj11659" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="do_it.Bj11659" />
+    <configuration name="Bj11003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="do_it.Bj11003" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -143,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bj11003" />
         <item itemvalue="Application.Bj1253" />
         <item itemvalue="Application.Bj2018" />
         <item itemvalue="Application.Bj10986" />
         <item itemvalue="Application.Bj11660" />
-        <item itemvalue="Application.Bj11659" />
       </list>
     </recent_temporary>
   </component>
