@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8631ed66-0571-437e-9b62-2b298fa7e148" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/do_it/Bj11720.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kakao_pay/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kakao_pay/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kakao_pay/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kakao_pay/Test04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kakao_pay/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/do_it/Bj1516.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,9 +63,9 @@
       <recent name="$PROJECT_DIR$/src/step" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bj11720">
-    <configuration name="Bj11720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="do_it.Bj11720" />
+  <component name="RunManager" selected="Application.Bj1516">
+    <configuration name="Bj11047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="do_it.Bj11047" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -82,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kakao04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Kakao04" />
+    <configuration name="Bj1516" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="do_it.Bj1516" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="do_it.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test02" />
+    <configuration name="Bj1920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="do_it.Bj1920" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="do_it.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="financial.Test02" />
+    <configuration name="Bj1976" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="do_it.Bj1976" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="financial.*" />
+          <option name="PATTERN" value="do_it.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test03" />
+    <configuration name="Bj2252" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="do_it.Bj2252" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="do_it.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bj11720" />
-        <item itemvalue="Application.Test02" />
-        <item itemvalue="Application.Kakao04" />
-        <item itemvalue="Application.Test02 (1)" />
-        <item itemvalue="Application.Test03" />
+        <item itemvalue="Application.Bj1516" />
+        <item itemvalue="Application.Bj2252" />
+        <item itemvalue="Application.Bj1976" />
+        <item itemvalue="Application.Bj11047" />
+        <item itemvalue="Application.Bj1920" />
       </list>
     </recent_temporary>
   </component>
