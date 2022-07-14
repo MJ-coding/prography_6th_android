@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8631ed66-0571-437e-9b62-2b298fa7e148" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/do_it/Bj1715.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/do_it/Bj1744.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/do_it/Bj1931.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/do_it/Bj1854.java" beforeDir="false" afterPath="$PROJECT_DIR$/do_it/Bj1854.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/do_it/Bj1916.java" beforeDir="false" afterPath="$PROJECT_DIR$/do_it/Bj1916.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/do_it/Bj1916.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/do_it/Bj1916.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/do_it/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/do_it/Bus.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +63,7 @@
       <recent name="$PROJECT_DIR$/src/step" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bj1744">
+  <component name="RunManager" selected="Application.Bj1931">
     <configuration name="Bj1715" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="do_it.Bj1715" />
       <module name="algorithm" />
@@ -84,19 +79,6 @@
     </configuration>
     <configuration name="Bj1744" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="do_it.Bj1744" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="do_it.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bj1753" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="do_it.Bj1753" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -134,6 +116,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Bj1931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="do_it.Bj1931" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="do_it.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -147,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bj1931" />
         <item itemvalue="Application.Bj1744" />
         <item itemvalue="Application.Bj1715" />
         <item itemvalue="Application.Bj1916" />
         <item itemvalue="Application.Bj1854" />
-        <item itemvalue="Application.Bj1753" />
       </list>
     </recent_temporary>
   </component>
