@@ -10,18 +10,19 @@ import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
 public class Bj1916 {
+    private static ArrayList<Bus>[] path;
+    private static long[] pay;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
         int N = Integer.parseInt(br.readLine());
         int M = Integer.parseInt(br.readLine());
-        boolean[] visited = new boolean[N+1];
-        int[] pay = new int[N+1];
-        Arrays.fill(visited,false);
-        Arrays.fill(pay,Integer.MAX_VALUE);
 
-        ArrayList<Bus>[] path = new ArrayList[N+1];
+        pay = new long[N+1];
+        Arrays.fill(pay,1_000_000_000);
+
+        path = new ArrayList[N+1];
         for(int i = 0 ; i < N+1; i++){
             path[i] = new ArrayList<>();
         }
@@ -39,34 +40,31 @@ public class Bj1916 {
         int end = Integer.parseInt(st.nextToken());
 
 
-        System.out.println(dijkstra(start,end,path,pay,visited));
+        System.out.println(dijkstra(start,end));
 
     }
 
-    private static int dijkstra(int start, int end, ArrayList<Bus>[] path, int[] pay, boolean[] visited) {
-        PriorityQueue<Bus> pq = new PriorityQueue<>(Comparator.comparingInt(Bus::getCost));
+    private static long dijkstra(int start, int end) {
+        PriorityQueue<Bus> pq = new PriorityQueue<>(Comparator.comparingLong(Bus::getCost));
         pq.offer(new Bus(start,0));
         pay[start] = 0;
 
         while(!pq.isEmpty()){
             Bus current = pq.poll();
             int currentBus = current.getBus();
-            int currentCost = current.getCost();
-            visited[currentBus] = true;
+            long currentCost = current.getCost();
 
             if(pay[currentBus] < currentCost)
                 continue;
 
             for(Bus next : path[currentBus]){
                 int nextBus = next.getBus();
-                int nextCost = next.getCost();
+                long nextCost = next.getCost();
 
-                if(!visited[nextBus] && pay[nextBus] > pay[currentBus] + nextCost){
+                if(pay[nextBus] > pay[currentBus] + nextCost){
                     pay[nextBus] = pay[currentBus] + nextCost;
+                    pq.offer(new Bus(nextBus,pay[nextBus]));
                 }
-                if(nextBus == end)
-                    return pay[end];
-                pq.offer(new Bus(nextBus,pay[nextBus]));
             }
         }
         return pay[end];
@@ -76,17 +74,17 @@ public class Bj1916 {
 }
 class Bus{
     private int bus;
-    private int cost;
+    private long cost;
 
     public int getBus() {
         return bus;
     }
 
-    public int getCost() {
+    public long getCost() {
         return cost;
     }
 
-    public Bus(int bus, int cost) {
+    public Bus(int bus, long cost) {
         this.bus = bus;
         this.cost = cost;
     }

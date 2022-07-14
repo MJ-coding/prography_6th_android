@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8631ed66-0571-437e-9b62-2b298fa7e148" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/do_it/Bj1916.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/do_it/Bj1715.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/do_it/Bj1744.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/do_it/Bj1854.java" beforeDir="false" afterPath="$PROJECT_DIR$/do_it/Bj1854.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/do_it/Bj1916.java" beforeDir="false" afterPath="$PROJECT_DIR$/do_it/Bj1916.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/do_it/Bj1916.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/do_it/Bj1916.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/do_it/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/do_it/Bus.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +68,22 @@
       <recent name="$PROJECT_DIR$/src/step" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bj1916">
-    <configuration name="Bj1516" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="do_it.Bj1516" />
+  <component name="RunManager" selected="Application.Bj1744">
+    <configuration name="Bj1715" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="do_it.Bj1715" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="do_it.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bj1744" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="do_it.Bj1744" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -90,34 +108,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Bj1854" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="do_it.Bj1854" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="do_it.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Bj1916" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="do_it.Bj1916" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="do_it.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bj1976" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="do_it.Bj1976" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="do_it.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bj2252" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="do_it.Bj2252" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bj1744" />
+        <item itemvalue="Application.Bj1715" />
         <item itemvalue="Application.Bj1916" />
+        <item itemvalue="Application.Bj1854" />
         <item itemvalue="Application.Bj1753" />
-        <item itemvalue="Application.Bj1516" />
-        <item itemvalue="Application.Bj2252" />
-        <item itemvalue="Application.Bj1976" />
       </list>
     </recent_temporary>
   </component>
