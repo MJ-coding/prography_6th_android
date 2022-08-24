@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8631ed66-0571-437e-9b62-2b298fa7e148" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/do_it/Bj15652.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/do_it/Bj1929.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/do_it/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Pro92335.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/do_it/Bj1929.java" beforeDir="false" afterPath="$PROJECT_DIR$/do_it/Bj1929.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kakao_pay/Test01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kakao_pay/Test02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kakao_pay/Test03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kakao_pay/Test04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kakao_pay/Test05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kakao_pay/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kakao_pay/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kakao_pay/Test03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kakao_pay/Test04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kakao_pay/Test05.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +74,7 @@
       <recent name="$PROJECT_DIR$/src/step" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bj15652">
+  <component name="RunManager" selected="Application.Pro92335">
     <configuration name="Bj1300" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="do_it.Bj1300" />
       <module name="algorithm" />
@@ -119,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="do_it.Test" />
+    <configuration name="Pro92335" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.Pro92335" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="do_it.*" />
+          <option name="PATTERN" value="programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pro92335" />
         <item itemvalue="Application.Bj15652" />
         <item itemvalue="Application.Bj15651" />
         <item itemvalue="Application.Bj1300" />
         <item itemvalue="Application.Bj2407" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>

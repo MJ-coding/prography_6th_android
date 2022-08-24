@@ -13,8 +13,10 @@ public class Bj1929 {
 
         int M = Integer.parseInt(st.nextToken());
         int N = Integer.parseInt(st.nextToken());
+        //prime
+        for(int i = M ; i <= N ; i++){
 
-
+        }
     }
 
 }
