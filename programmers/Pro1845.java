@@ -16,7 +16,7 @@ public class Pro1845 {
         for(int num : nums){
             map.merge(num,1 , Integer::sum);
         }
-        
+
         int maxPocket = nums.length/2;
         return maxPocket <= map.size() ? maxPocket : map.size();
     }
