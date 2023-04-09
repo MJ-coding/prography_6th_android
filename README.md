@@ -82,11 +82,13 @@ Cancel changes
  백준|[빈도 정렬](https://www.acmicpc.net/problem/2910)|[정답](https://github.com/corrvax/algorithm/blob/master/src/map_set/Bj2910.java)
  프로그래머스|[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)|[정답](https://github.com/corrvax/algorithm/blob/master/programmers/Pro1845.java)
  프로그래머스|[완주하지못한선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|[정답](https://github.com/corrvax/algorithm/blob/master/programmers/Pro42576.java)
+ 프로그래머스|[전화번호목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|[정답](https://github.com/corrvax/algorithm/blob/master/programmers/Pro42577.java)
+
  
 ##  👉정렬
  출처|문제|풀이
  ---|----|----
- 백준|[전화번호 목록](https://www.acmicpc.net/problem/5052)|[정답](https://github.com/corrvax/algorithm/blob/master/src/sorting/Bj5052.java)
+ 백준|[전화번호 목록](https://www.acmicpc.net/problem/5052)|[정답](https://github.com/corrvax/algorithm/blob/master/sorting/Bj5052.java)
 ---
 ##  👉이진탐색
  출처|문제|풀이
