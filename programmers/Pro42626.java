@@ -11,76 +11,32 @@ public class Pro42626 {
 
     public static int solution(int[] scoville, int K) {
         int answer = 0;
-        //사용한 스코빌 check
         int size = scoville.length;
-        Info minInfo;
-        Info nextMinInfo;
-        int[] check = new int[size];
-        PriorityQueue<Info> pq = new PriorityQueue<>(Comparator.comparingInt(Info::getScove));
+        int min = 0;
+        int nextMin = 0;
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
 
         for(int i = 0 ; i < size ;i++){
-            pq.add(new Info(scoville[i],i));
+            pq.add(scoville[i]);
         }
-        int going = 1;
-        for(int i = 0 ; i<size ; i++){
-            if(check[i] != -1)
-                break;
-            going = 0;
-        }
-        while( !isUpperThenK(pq, K) && going ==1){
-            minInfo = pq.poll();
-            nextMinInfo = pq.poll();
 
-            if(minInfo.getIndex() != -1 )
-                check[minInfo.getIndex()] = 1;
-            if(nextMinInfo.getIndex() != -1)
-                check[nextMinInfo.getIndex()] = 1;
-            pq.add(new Info(mixScovile(minInfo.getScove(), nextMinInfo.getScove()),-1));
+        while(true){
+            if(pq.size() < 2)
+                break;
+            min = pq.poll();
+            if(min >= K)
+                break;
+            nextMin = pq.poll();
+
+            pq.add(mixScovile(min, nextMin));
             answer++;
         }
 
-        for(int i = 0 ; i<size ; i++){
-            if(check[i] != -1)
-                return answer;
-        }
-
-        return -1;
+        return pq.poll() < K ? -1 : answer;
     }
     public static int mixScovile(int min , int nextMin){
         return min + nextMin*2;
     }
-    public  static boolean isUpperThenK(PriorityQueue<Info> pq , int k){
-        for(Info info : pq){
-            if(info.getScove() < k){
-                return false;
-            }
-        }
-        return true;
-    }
 
-}
-class Info{
-    int scove;
-    int index;
 
-    public Info(int scove, int index) {
-        this.scove = scove;
-        this.index = index;
-    }
-
-    public int getScove() {
-        return scove;
-    }
-
-    public void setScove(int scove) {
-        this.scove = scove;
-    }
-
-    public int getIndex() {
-        return index;
-    }
-
-    public void setIndex(int index) {
-        this.index = index;
-    }
 }
