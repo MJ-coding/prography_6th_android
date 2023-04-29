@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8631ed66-0571-437e-9b62-2b298fa7e148" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Pro12906.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Pro12909.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
       <recent name="$PROJECT_DIR$/src/step" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pro12906">
+  <component name="RunManager" selected="Application.Pro12909">
     <configuration name="Pro12906" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.Pro12906" />
       <module name="algorithm" />
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pro42579" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.Pro42579" />
+    <configuration name="Pro12909" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.Pro12909" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pro12909" />
         <item itemvalue="Application.Pro12906" />
         <item itemvalue="Application.Pro42746" />
         <item itemvalue="Application.Pro42626" />
         <item itemvalue="Application.Pro42586" />
-        <item itemvalue="Application.Pro42579" />
       </list>
     </recent_temporary>
   </component>
